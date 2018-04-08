@@ -8,5 +8,20 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kodilla-course_v2_main" target="1.8" />
+      <module name="kodilla-course_v2_test" target="1.8" />
+      <module name="kodilla-patterns_main" target="1.8" />
+      <module name="kodilla-patterns_test" target="1.8" />
+      <module name="kodilla-rps_main" target="1.8" />
+      <module name="kodilla-rps_test" target="1.8" />
+      <module name="kodilla-spring" target="1.8" />
+      <module name="kodilla-spring-intro_main" target="1.8" />
+      <module name="kodilla-spring-intro_test" target="1.8" />
+      <module name="kodilla-spring-web_main" target="1.8" />
+      <module name="kodilla-spring-web_test" target="1.8" />
+      <module name="kodilla-spring_main" target="1.8" />
+      <module name="kodilla-spring_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
