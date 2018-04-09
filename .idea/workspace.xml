@@ -2,176 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b03a98-5f64-4efe-a572-0f805fe8f75b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-course_v2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-course_v2_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-course_v2_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-patterns_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-patterns_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-rps/kodilla-rps_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/kodilla-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/PatternsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-rps/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/4.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/SpringIntroRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/shape/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/shape/Drawer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/shape/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/shape/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/production/classes/com/kodilla/spring/intro/shape/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-intro/out/test/classes/com/kodilla/spring/intro/shape/DrawerTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/src/test/java/com/kodilla/spring/web/KodillaSpringWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/SpringRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/calculator/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/calculator/Display.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/forum/ForumUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/library/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/library/LibraryConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/library/LibraryDbController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/portfolio/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/portfolio/BoardConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/portfolio/TaskList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/reader/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/reader/IfDayIsOddCondition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/reader/Reader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/reader/ReaderConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/shape/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/shape/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/shape/ShapesFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/shape/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/production/classes/com/kodilla/spring/shape/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/SpringRunnerTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/calculator/CalculatorTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/forum/ForumUserTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/library/LibraryTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/portfolio/BoardTestSuite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/out/test/classes/com/kodilla/spring/reader/ReaderTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -228,8 +64,8 @@
       <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="600">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -237,8 +73,70 @@
       <file leaf-file-name="LoggerTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="487">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TasksList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -249,8 +147,8 @@
       <file leaf-file-name="SettingsFileEngineTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="984">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#311#312#0" expanded="true" />
@@ -2013,6 +1911,11 @@
         <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/Logger.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TaskList.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" />
       </list>
     </option>
@@ -2037,6 +1940,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2087,6 +1991,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course_v2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2111,6 +2025,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course_v2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course_v2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2122,7 +2056,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2148,7 +2081,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoggerTestSuite.testGetLastLog">
+  <component name="RunManager" selected="JUnit.LoggerTestSuite">
     <configuration name="PatternsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.PatternsRunner" />
       <module name="kodilla-patterns_main" />
@@ -2163,20 +2096,20 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BoardTestSuite.testTaskAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-spring_test" />
+    <configuration name="LoggerTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-patterns_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.spring.portfolio.*" />
+          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla.spring.portfolio" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.spring.portfolio.BoardTestSuite" />
-      <option name="METHOD_NAME" value="testTaskAdd" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.LoggerTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -2209,19 +2142,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReaderTestSuite.testConditional" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-spring_test" />
+    <configuration name="LoggerTestSuite.testGetSecondLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-patterns_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.spring.reader.*" />
+          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla.spring.reader" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.spring.reader.ReaderTestSuite" />
-      <option name="METHOD_NAME" value="testConditional" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.LoggerTestSuite" />
+      <option name="METHOD_NAME" value="testGetSecondLog" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -2329,19 +2262,19 @@
       <item itemvalue="Spring Boot.SpringRunner" />
       <item itemvalue="Spring Boot.KodillaSpringWebApplication" />
       <item itemvalue="Spring Boot.KodillaPatternsApplication" />
-      <item itemvalue="JUnit.ReaderTestSuite.testConditional" />
-      <item itemvalue="JUnit.BoardTestSuite.testTaskAdd" />
       <item itemvalue="Application.PatternsRunner" />
       <item itemvalue="JUnit.SettingsFileEngineTestSuite" />
       <item itemvalue="JUnit.LoggerTestSuite.testGetLastLog" />
+      <item itemvalue="JUnit.LoggerTestSuite.testGetSecondLog" />
+      <item itemvalue="JUnit.LoggerTestSuite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoggerTestSuite" />
+        <item itemvalue="JUnit.LoggerTestSuite.testGetSecondLog" />
         <item itemvalue="JUnit.LoggerTestSuite.testGetLastLog" />
         <item itemvalue="JUnit.SettingsFileEngineTestSuite" />
         <item itemvalue="Application.PatternsRunner" />
-        <item itemvalue="JUnit.BoardTestSuite.testTaskAdd" />
-        <item itemvalue="JUnit.ReaderTestSuite.testConditional" />
       </list>
     </recent_temporary>
   </component>
@@ -2359,7 +2292,8 @@
       <workItem from="1523123825746" duration="8434000" />
       <workItem from="1523136045965" duration="1280000" />
       <workItem from="1523174229055" duration="5167000" />
-      <workItem from="1523220092528" duration="1983000" />
+      <workItem from="1523220092528" duration="3483000" />
+      <workItem from="1523311733125" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="10_1">
       <created>1523097086392</created>
@@ -2375,19 +2309,17 @@
       <option name="project" value="LOCAL" />
       <updated>1523137018499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11_1">
+      <created>1523222207712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523222207712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BoardTestSuite_testTaskAdd - 2018.04.07 at 22h 46m 06s.xml">
-      <configuration name="BoardTestSuite.testTaskAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoardTestSuite_testTaskAdd - 2018.04.07 at 22h 47m 15s.xml">
-      <configuration name="BoardTestSuite.testTaskAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoardTestSuite_testTaskAdd - 2018.04.07 at 22h 48m 42s.xml">
-      <configuration name="BoardTestSuite.testTaskAdd" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BoardTestSuite_testTaskAdd - 2018.04.07 at 22h 50m 20s.xml">
       <configuration name="BoardTestSuite.testTaskAdd" configurationId="JUnit" />
     </history-entry>
@@ -2409,9 +2341,18 @@
     <history-entry file="LoggerTestSuite_testGetLastLog - 2018.04.08 at 23h 12m 33s.xml">
       <configuration name="LoggerTestSuite.testGetLastLog" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoggerTestSuite_testGetLastLog - 2018.04.10 at 00h 12m 42s.xml">
+      <configuration name="LoggerTestSuite.testGetLastLog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoggerTestSuite_testGetSecondLog - 2018.04.10 at 00h 12m 53s.xml">
+      <configuration name="LoggerTestSuite.testGetSecondLog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoggerTestSuite - 2018.04.10 at 00h 13m 03s.xml">
+      <configuration name="LoggerTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30182000" />
+    <option name="totallyTimeSpent" value="32176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -2462,7 +2403,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10_1" />
     <MESSAGE value="10_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="10_4" />
+    <MESSAGE value="11_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="11_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2470,48 +2412,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/BoardConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/reader/ReaderTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/TaskList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -2799,15 +2699,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="600">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="984">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
@@ -2818,10 +2718,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TaskList.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="487">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
